@@ -1,0 +1,10 @@
+body {
+  background-image: url('/img/Fondo.jpg');
+  background-repeat: repeat;
+}
+
+.logo {
+  width: 50%;
+}
+
+
